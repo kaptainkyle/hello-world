@@ -1,2 +1,3 @@
 # hello-world
-Into repository
+Just goofing around.
+Nothing to see here.
